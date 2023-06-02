@@ -11,7 +11,7 @@
          - git commit -m "descripción de los cambios"
          - git status: muestra el estado del repositorio 
     5. Envío los cambios al repositorio remoto:
-         - git push origin main 
+         - git push -u origin nombre de la rama
 # Capítulo 3.
 ## Gestion de ramas
 # Capitulo 4. 
