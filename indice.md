@@ -1,5 +1,4 @@
-# Capítulo 1. 
- 
+
  ## Introducción a Git (conceptos y configuraciones)
  **GIT: Sistema de control de versiones**
 
@@ -10,7 +9,3 @@
 ## Gestion de ramas
 # Capitulo 4. 
 ## Repositorios remotos
-
-
- 
-
