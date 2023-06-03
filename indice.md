@@ -1,7 +1,4 @@
-
- ## Introducción a Git (conceptos y configuraciones)
- **GIT: Sistema de control de versiones**
-
+# Capítulo 1. 
 ## Introducción a Git (conceptos y configuraciones)
 # Capítulo 2. 
 ## Flujo de trabajo básico
