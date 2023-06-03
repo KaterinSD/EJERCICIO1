@@ -1,0 +1,6 @@
+capitulo 3 gestiòn de ramas
+git clone  Url
+clic remote add nombre del remoto y la url y conecta un repositorio local
+git remote -v: lista de repositorio
+git add . : agregar todos los archivos al siguiente commit
+git branch: lista de la ramas locales
